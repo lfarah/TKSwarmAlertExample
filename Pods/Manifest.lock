@@ -1,0 +1,13 @@
+PODS:
+  - EZSwiftExtensions (1.5)
+  - TKSwarmAlert (0.0.4)
+
+DEPENDENCIES:
+  - EZSwiftExtensions
+  - TKSwarmAlert
+
+SPEC CHECKSUMS:
+  EZSwiftExtensions: fe78d7d4ac34f5c8c36415d4acee49ba67c9732a
+  TKSwarmAlert: 8fe22e7b9beec7e1e5d9506483e8f7c0272767eb
+
+COCOAPODS: 0.39.0
